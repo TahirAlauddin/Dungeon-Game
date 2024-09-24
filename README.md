@@ -50,7 +50,7 @@ Explore a labyrinth of rooms, fight monsters, collect items, and find your way t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/dungeon-game.git
+   git clone https://github.com/TahirAlauddin/Dungeon-Game.git
    ```
 2. Navigate to the game directory:
    ```
